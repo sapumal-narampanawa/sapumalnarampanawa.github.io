@@ -1,1 +1,1 @@
-# sapumalnarampanawa.github.io
+# sapumal-narampanawa.github.io
