@@ -263,17 +263,20 @@ img {
 
 .mfp-wrap {
   z-index: 100000; }
+  .mfp-image-holder .mfp-content {
+    max-width: 90%;
+}
 
 .mfp-image-holder .mfp-close,
 .mfp-iframe-holder .mfp-close {
   color: #ffffff;
-  right: -30px;
+  right: -0px;
   padding-right: 0;
-  width: 30px;
+  width: 3px;
   height: 30px;
   line-height: 25px;
   text-align: center;
-  border: 2px solid #ffffff;
+  border: 0px solid #ffffff;
   border-radius: 50%;
   top: 10px; }
 
